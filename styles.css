@@ -9,7 +9,7 @@
 .header{
     display: flex;
     justify-content: space-between;
-    background-color: #1f2987;
+    background-color: #1f2937;
     color:aliceblue;
     padding: 12px 340px;
 }
@@ -48,7 +48,7 @@ a {
 
 .container-1 {
     justify-content: space-around;
-    background-color: #1f2987;
+    background-color: #1f2937;
     padding-top: 80px;
     padding-bottom: 30px;
     align-items: flex-start;
@@ -146,7 +146,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #1f2987;
+    background-color: #3882f6;
     padding-left: 120px;
     padding-right: 120px;
     padding-top: 20px;
@@ -171,8 +171,9 @@ a {
 /* Styling Footer */
 
 footer {
-    background-color: rgb(235, 235, 235);
+    background-color: #1f2937;
     padding: 20px;
     text-align: center;
+    color: aliceblue;
 }
 
